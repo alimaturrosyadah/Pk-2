@@ -24,8 +24,10 @@ li {
   list-style: none;
   float:left;
 }
+padding:33px 20px;
 
 .header-logo{
+  float: left;
   font-size: 36px;
-  float:left;
+  padding:20px 40px;
 }
