@@ -18,3 +18,14 @@ li {
 .selected{
   color: #ff0000;
 }
+kurang 1
+
+li {
+  list-style: none;
+  float:left;
+}
+
+.header-logo{
+  font-size: 36px;
+  float:left;
+}
